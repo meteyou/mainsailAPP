@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/config.json"
   },
   {
-    "revision": "21a2f0ff94fec32f9dad",
+    "revision": "f669950a0130aafcb9a1",
     "url": "/css/app.9f1cf960.css"
   },
   {
@@ -60,12 +60,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/sidebar-background.png"
   },
   {
-    "revision": "71838e4d8515a557eb79d0bfc2cf977b",
+    "revision": "40b12997e274e1410c0e4d601c7fe34f",
     "url": "/index.html"
   },
   {
-    "revision": "21a2f0ff94fec32f9dad",
-    "url": "/js/app.dc4baa75.js"
+    "revision": "f669950a0130aafcb9a1",
+    "url": "/js/app.e510d5a5.js"
   },
   {
     "revision": "d118b2685a217f9eaa26",
