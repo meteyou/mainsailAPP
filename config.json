@@ -1,3 +1,4 @@
 {
-	"hostname": "voron250.local"
+	"hostname": "voron250.local",
+	"port": 7125
 }
